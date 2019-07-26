@@ -1,0 +1,109 @@
+body {
+    margin-left: 0px;
+    margin-top: 0px;
+    background-color: #FFC;
+}
+#aa {
+    position: absolute;
+    height: 1600px;
+    width: 1346px;
+}
+#qq {
+    background: #FFF;
+    position: fixed;
+    height: 207px;
+    width: 1363px;
+    left: -15px;
+    top: 0px;
+    color: #000;
+}
+
+#oo {
+    background: #FFF;
+    position: absolute;
+    height: 219px;
+    width: 146px;
+    left: 488px;
+    top: 3px;
+    color: #FFF;
+}
+#ww {
+    background: #FFF;
+    position: absolute;
+    height: 227px;
+    width: 635px;
+    left: 187px;
+    top: 236px;
+    color: #000;
+}
+
+#rr {
+    background: #FFF;
+    position: absolute;
+    height: 227px;
+    width: 635px;
+    left: 187px;
+    top: 477px;
+    color: #000;
+}
+#tt {
+    background: #c2c2c2;
+    position: absolute;
+    height: 468px;
+    width: 329px;
+    left:1000px;
+    top: 236px;
+    font-size: 13px;
+    color: #000;
+    text-align: center;
+}
+#dd {
+    position: absolute;
+    height: 225px;
+    width: 149px;
+}
+#ff {
+    position: absolute;
+    height: 222px;
+    width:1200px;
+    left: 148px;
+    top: 3px;
+    background: #FFF;
+}
+#gg {
+    background: #FFF;
+    position: absolute;
+    height:800px;
+    width:800px;
+    left: 187px;
+    top: 960px;
+    color: #000;
+}
+
+
+
+#ll {
+    position: absolute;
+    height: 79px;
+    width: 1000px;
+}
+#ss {
+    background: #09C;
+    position: absolute;
+    height: 218px;
+    width: 145px;
+    left: 490px;
+    top: 4px;
+}
+#yy {
+    background: #6F9;
+    position: absolute;
+    height: 228px;
+    width: 635px;
+    left: 187px;
+    top: 718px;
+}
+
+#aa #uu table tr td {
+    font-weight: bold;
+}

@@ -1,0 +1,81 @@
+body {
+    margin-left: 0px;
+    margin-top: 0px;
+    background-image: url(../img/guan1.jpg);
+    background-color: #6FF;
+}
+#aa {
+    position: absolute;
+    height: 469px;
+    width: 93px;
+    left: 48px;
+    top: 22px;
+    text-align: center;
+}
+#bb {
+    position: absolute;
+    height: 72px;
+    width: 273px;
+    left: 305px;
+    top: 380px;
+}
+#cc {
+    position: absolute;
+    height: 70px;
+    width: 273px;
+    left: 305px;
+    top: 489px;
+}
+#dd {
+    position: absolute;
+    height: 71px;
+    width: 273px;
+    left: 305px;
+    top: 163px;
+}
+#ee {
+    position: absolute;
+    height: 71px;
+    width: 273px;
+    left: 303px;
+    top: 265px;
+}
+#aa table {
+    text-align: center;
+}
+#ff {
+    position: absolute;
+    height: 376px;
+    width: 93px;
+    left: 210px;
+    top: 155px;
+}
+#gg {
+    position: absolute;
+    height: 60px;
+    width: 195px;
+    left: 215px;
+    top: 57px;
+}
+#hh {
+    position: absolute;
+    height: 59px;
+    width: 133px;
+    left: 413px;
+    top: 57px;
+    font-size: 16px;
+    color: #096;
+}
+#hh {
+    font-size: 10px;
+}
+#hh {
+    font-size: 18px;
+}
+#zz {
+    position: absolute;
+    height: 43px;
+    width: 260px;
+    left: 5px;
+    top: 358px;
+}
